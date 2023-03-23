@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rtmpt"]
+	path = rtmpt
+	url = https://github.com/cran/rtmpt
+	shallow = true
+	registered = true
+[submodule "WienR"]
+	path = WienR
+	url = https://github.com/cran/WienR
+	shallow = true
+	registered = true
