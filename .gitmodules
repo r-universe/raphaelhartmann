@@ -10,6 +10,6 @@
 	registered = true
 [submodule "WienR"]
 	path = WienR
-	url = https://github.com/cran/WienR
+	url = https://github.com/raphaelhartmann/wienr
 	shallow = true
 	registered = true
