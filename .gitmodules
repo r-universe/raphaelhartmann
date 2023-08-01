@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rtmpt"]
-	path = rtmpt
-	url = https://github.com/cran/rtmpt
 [submodule "WienR"]
 	path = WienR
 	url = https://github.com/raphaelhartmann/wienr
+[submodule "rtmpt"]
+	path = rtmpt
+	url = https://github.com/cran/rtmpt
