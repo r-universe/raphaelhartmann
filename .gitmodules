@@ -7,4 +7,4 @@
 	url = https://github.com/raphaelhartmann/wienr
 [submodule "rtmpt"]
 	path = rtmpt
-	url = https://github.com/cran/rtmpt
+	url = https://github.com/raphaelhartmann/rtmpt
