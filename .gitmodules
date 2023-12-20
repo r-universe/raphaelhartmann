@@ -5,6 +5,9 @@
 [submodule "WienR"]
 	path = WienR
 	url = https://github.com/raphaelhartmann/wienr
+[submodule "forceplate"]
+	path = forceplate
+	url = https://github.com/raphaelhartmann/forceplate
 [submodule "rtmpt"]
 	path = rtmpt
 	url = https://github.com/raphaelhartmann/rtmpt
