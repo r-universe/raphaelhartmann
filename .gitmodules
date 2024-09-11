@@ -8,6 +8,9 @@
 [submodule "forceplate"]
 	path = forceplate
 	url = https://github.com/raphaelhartmann/forceplate
+[submodule "ream"]
+	path = ream
+	url = https://github.com/raphaelhartmann/ream
 [submodule "rtmpt"]
 	path = rtmpt
 	url = https://github.com/raphaelhartmann/rtmpt
